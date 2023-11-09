@@ -7,7 +7,7 @@ colorama==0.4.6
 cryptography==41.0.4
 distlib==0.3.7
 filelock
-Flask==3.0.0
+Flask
 Flask-Bcrypt
 Flask-Login
 Flask-Mail
@@ -31,4 +31,4 @@ python-dotenv
 SQLAlchemy
 typing_extensions
 virtualenv
-Werkzeug==2.3.0
+Werkzeug
